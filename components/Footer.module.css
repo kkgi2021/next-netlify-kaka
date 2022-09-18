@@ -11,3 +11,9 @@
   height: 1em;
   margin: 5px;
 }
+.email{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+
+}
